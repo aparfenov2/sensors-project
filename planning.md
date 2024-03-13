@@ -5,14 +5,14 @@ nn| Описание | К-во часов
 1| Реализация окон (визуальная часть)|153
 1.1| Main Page | 62
 -| Гугл карта с метками| 25
--| Таблица справа | 37
-1.2| Account Window | 18
-1.3| Details Window | 73
--|Виджет текущего состояния|16
--|График истории|29
--|Consumption|8
--|Таблица истории|8
--|General Settings Window|12
+-| [Таблица справа](#user-content-таблица-справа) | 37
+1.2| [Account Window](#user-content-account-window) | 18
+1.3| [Details Window](#user-content-details-window) | 73
+-|[Виджет текущего состояния](#user-content-виджет-текущего-состояния)|16
+-|[График истории](#user-content-график-истории)|29
+-|[Consumption](#user-content-consumption)|8
+-|[Таблица истории](#user-content-таблица-истории)|8
+-|[General Settings Window](#user-content-general-settings-window)|12
 2| Подключение к источнику данных
 -|  создание тестового аккаунта
 -|  запрос данных при отображении
